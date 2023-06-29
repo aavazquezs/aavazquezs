@@ -1,4 +1,4 @@
-Hello everyone, I am a professor at the University of Computer Science, Havana, Cuba. 
+Hello everyone, I am a professor at the University of Informatics Science, Havana, Cuba. 
 - Programming and artificial intelligence are among my passions. 
 - I am a free and open software enthusiast. 
 - Backend software developer with Java.
