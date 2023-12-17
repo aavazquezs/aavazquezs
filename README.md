@@ -1,7 +1,7 @@
 Hello everyone, I am a professor at the University of Informatics Science, Havana, Cuba. 
 - Programming and artificial intelligence are among my passions. 
 - I am a free and open software enthusiast. 
-- Backend software developer with Java.
+- Backend software developer with Java (Spring) and Python (DJango, FastAPI).
 - Machine learning with the tools available in Python and Java.
 - Apache Spark for Big Data analysis
 
